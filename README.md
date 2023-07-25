@@ -9,9 +9,8 @@ solutions.
    correct output. For example, to run the first file, run the following:
    `node 01-last-vowel.js`
 4. When all problems are complete, submit your project:
-   1. **Delete the `node_modules` directory**
-   2. Zip up your folder
-   3. Upload it
+   1. Zip up your folder
+   2. Upload it via the 'submit project' button
 
 If you run into any issues cloning the practice, running your files, or zipping
 up your submission, reach out to an instructor on Slack.
